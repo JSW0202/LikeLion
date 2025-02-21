@@ -1,0 +1,7 @@
+C:\Users\JSW\Documents\LikeLion\study3\study3\bin\Debug\study3.exe.config
+C:\Users\JSW\Documents\LikeLion\study3\study3\bin\Debug\study3.exe
+C:\Users\JSW\Documents\LikeLion\study3\study3\bin\Debug\study3.pdb
+C:\Users\JSW\Documents\LikeLion\study3\study3\obj\Debug\study3.csproj.AssemblyReference.cache
+C:\Users\JSW\Documents\LikeLion\study3\study3\obj\Debug\study3.csproj.CoreCompileInputs.cache
+C:\Users\JSW\Documents\LikeLion\study3\study3\obj\Debug\study3.exe
+C:\Users\JSW\Documents\LikeLion\study3\study3\obj\Debug\study3.pdb
