@@ -1,0 +1,7 @@
+C:\Users\JSW\Documents\LikeLion\myTextGame\myTextGame\bin\Debug\myTextGame.exe.config
+C:\Users\JSW\Documents\LikeLion\myTextGame\myTextGame\bin\Debug\myTextGame.exe
+C:\Users\JSW\Documents\LikeLion\myTextGame\myTextGame\bin\Debug\myTextGame.pdb
+C:\Users\JSW\Documents\LikeLion\myTextGame\myTextGame\obj\Debug\myTextGame.csproj.AssemblyReference.cache
+C:\Users\JSW\Documents\LikeLion\myTextGame\myTextGame\obj\Debug\myTextGame.csproj.CoreCompileInputs.cache
+C:\Users\JSW\Documents\LikeLion\myTextGame\myTextGame\obj\Debug\myTextGame.exe
+C:\Users\JSW\Documents\LikeLion\myTextGame\myTextGame\obj\Debug\myTextGame.pdb
