@@ -1,0 +1,7 @@
+C:\Users\JSW\Documents\LikeLion\Study22\Study22\bin\Debug\Study22.exe.config
+C:\Users\JSW\Documents\LikeLion\Study22\Study22\bin\Debug\Study22.exe
+C:\Users\JSW\Documents\LikeLion\Study22\Study22\bin\Debug\Study22.pdb
+C:\Users\JSW\Documents\LikeLion\Study22\Study22\obj\Debug\Study22.csproj.AssemblyReference.cache
+C:\Users\JSW\Documents\LikeLion\Study22\Study22\obj\Debug\Study22.csproj.CoreCompileInputs.cache
+C:\Users\JSW\Documents\LikeLion\Study22\Study22\obj\Debug\Study22.exe
+C:\Users\JSW\Documents\LikeLion\Study22\Study22\obj\Debug\Study22.pdb
