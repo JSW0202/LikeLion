@@ -1,0 +1,7 @@
+C:\Users\JSW\Documents\LikeLion\Quest25.03.05\Quest25.03.05\bin\Debug\Quest25.03.05.exe.config
+C:\Users\JSW\Documents\LikeLion\Quest25.03.05\Quest25.03.05\bin\Debug\Quest25.03.05.exe
+C:\Users\JSW\Documents\LikeLion\Quest25.03.05\Quest25.03.05\bin\Debug\Quest25.03.05.pdb
+C:\Users\JSW\Documents\LikeLion\Quest25.03.05\Quest25.03.05\obj\Debug\Quest25.03.05.csproj.AssemblyReference.cache
+C:\Users\JSW\Documents\LikeLion\Quest25.03.05\Quest25.03.05\obj\Debug\Quest25.03.05.csproj.CoreCompileInputs.cache
+C:\Users\JSW\Documents\LikeLion\Quest25.03.05\Quest25.03.05\obj\Debug\Quest25.03.05.exe
+C:\Users\JSW\Documents\LikeLion\Quest25.03.05\Quest25.03.05\obj\Debug\Quest25.03.05.pdb

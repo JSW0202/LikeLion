@@ -1,0 +1,7 @@
+C:\Users\JSW\Documents\LikeLion\Study26\Study26\bin\Debug\Study26.exe.config
+C:\Users\JSW\Documents\LikeLion\Study26\Study26\bin\Debug\Study26.exe
+C:\Users\JSW\Documents\LikeLion\Study26\Study26\bin\Debug\Study26.pdb
+C:\Users\JSW\Documents\LikeLion\Study26\Study26\obj\Debug\Study26.csproj.AssemblyReference.cache
+C:\Users\JSW\Documents\LikeLion\Study26\Study26\obj\Debug\Study26.csproj.CoreCompileInputs.cache
+C:\Users\JSW\Documents\LikeLion\Study26\Study26\obj\Debug\Study26.exe
+C:\Users\JSW\Documents\LikeLion\Study26\Study26\obj\Debug\Study26.pdb
