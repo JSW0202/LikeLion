@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|c:\\users\\jsw\\documents\\likelion\\textrpgquest25.03.07\\textrpgquest25.03.07\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|solutionrelative:textrpgquest25.03.07\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|c:\\users\\jsw\\documents\\likelion\\textrpgquest25.03.07\\textrpgquest25.03.07\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|solutionrelative:textrpgquest25.03.07\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|c:\\users\\jsw\\documents\\likelion\\textrpgquest25.03.07\\textrpgquest25.03.07\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|solutionrelative:textrpgquest25.03.07\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|c:\\users\\jsw\\documents\\likelion\\textrpgquest25.03.07\\textrpgquest25.03.07\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|solutionrelative:textrpgquest25.03.07\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|c:\\users\\jsw\\documents\\likelion\\textrpgquest25.03.07\\textrpgquest25.03.07\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|solutionrelative:textrpgquest25.03.07\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|c:\\users\\jsw\\documents\\likelion\\textrpgquest25.03.07\\textrpgquest25.03.07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0029579-C545-4BAE-B4C1-A8AAE43F6DE8}|TextRpgQuest25.03.07\\TextRpgQuest25.03.07.csproj|solutionrelative:textrpgquest25.03.07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\MainGame.cs",
+              "RelativeDocumentMoniker": "TextRpgQuest25.03.07\\MainGame.cs",
+              "ToolTip": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\MainGame.cs",
+              "RelativeToolTip": "TextRpgQuest25.03.07\\MainGame.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwCMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:36.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\Field.cs",
+              "RelativeDocumentMoniker": "TextRpgQuest25.03.07\\Field.cs",
+              "ToolTip": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\Field.cs",
+              "RelativeToolTip": "TextRpgQuest25.03.07\\Field.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:26.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\INFO.cs",
+              "RelativeDocumentMoniker": "TextRpgQuest25.03.07\\INFO.cs",
+              "ToolTip": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\INFO.cs",
+              "RelativeToolTip": "TextRpgQuest25.03.07\\INFO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:17.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\Monster.cs",
+              "RelativeDocumentMoniker": "TextRpgQuest25.03.07\\Monster.cs",
+              "ToolTip": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\Monster.cs",
+              "RelativeToolTip": "TextRpgQuest25.03.07\\Monster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:10.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\Player.cs",
+              "RelativeDocumentMoniker": "TextRpgQuest25.03.07\\Player.cs",
+              "ToolTip": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\Player.cs",
+              "RelativeToolTip": "TextRpgQuest25.03.07\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:05:05.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\Program.cs",
+              "RelativeDocumentMoniker": "TextRpgQuest25.03.07\\Program.cs",
+              "ToolTip": "C:\\Users\\JSW\\Documents\\LikeLion\\TextRpgQuest25.03.07\\TextRpgQuest25.03.07\\Program.cs",
+              "RelativeToolTip": "TextRpgQuest25.03.07\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T05:04:45.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

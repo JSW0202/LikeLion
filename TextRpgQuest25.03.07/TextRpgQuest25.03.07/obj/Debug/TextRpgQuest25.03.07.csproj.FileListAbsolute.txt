@@ -1,0 +1,7 @@
+C:\Users\JSW\Documents\LikeLion\TextRpgQuest25.03.07\TextRpgQuest25.03.07\bin\Debug\TextRpgQuest25.03.07.exe.config
+C:\Users\JSW\Documents\LikeLion\TextRpgQuest25.03.07\TextRpgQuest25.03.07\bin\Debug\TextRpgQuest25.03.07.exe
+C:\Users\JSW\Documents\LikeLion\TextRpgQuest25.03.07\TextRpgQuest25.03.07\bin\Debug\TextRpgQuest25.03.07.pdb
+C:\Users\JSW\Documents\LikeLion\TextRpgQuest25.03.07\TextRpgQuest25.03.07\obj\Debug\TextRpgQuest25.03.07.csproj.AssemblyReference.cache
+C:\Users\JSW\Documents\LikeLion\TextRpgQuest25.03.07\TextRpgQuest25.03.07\obj\Debug\TextRpgQuest25.03.07.csproj.CoreCompileInputs.cache
+C:\Users\JSW\Documents\LikeLion\TextRpgQuest25.03.07\TextRpgQuest25.03.07\obj\Debug\TextRpgQuest25.03.07.exe
+C:\Users\JSW\Documents\LikeLion\TextRpgQuest25.03.07\TextRpgQuest25.03.07\obj\Debug\TextRpgQuest25.03.07.pdb
